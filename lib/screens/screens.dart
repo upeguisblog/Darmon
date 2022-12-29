@@ -1,0 +1,15 @@
+export 'package:app_3/screens/add_page.dart';
+export 'package:app_3/screens/asistencias.dart';
+export 'package:app_3/screens/calendario.dart';
+export 'package:app_3/screens/check_auth_screen.dart';
+export 'package:app_3/screens/editor_perfil.dart';
+export 'package:app_3/screens/federacion.dart';
+export 'package:app_3/screens/form_gastos.dart';
+export 'package:app_3/screens/login_screen.dart';
+export 'package:app_3/screens/marcar_asistencias.dart';
+export 'package:app_3/screens/pantalla_eventos.dart';
+export 'package:app_3/screens/pantallaInicio.dart';
+export 'package:app_3/screens/plantilla_inscripcion_eventos.dart';
+export 'package:app_3/screens/principal.dart';
+export 'package:app_3/screens/register_screen.dart';
+export 'package:app_3/widgets/page4.dart';
